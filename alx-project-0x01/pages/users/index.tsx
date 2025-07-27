@@ -29,5 +29,5 @@ const Users = ({ posts}: Props) => {
   )
 }
 
-export default Users
+export default Users;
 
